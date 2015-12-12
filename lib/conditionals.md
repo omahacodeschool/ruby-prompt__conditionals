@@ -5,7 +5,7 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-I think conditionals are...
+I think conditionals are lovely...
 
 # What is the difference between `=` and `==`?
 
