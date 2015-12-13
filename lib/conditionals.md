@@ -5,8 +5,8 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+Conditionals are the part of the program that controls the flow of the program.  If, elsif, else type statements.  If certain conditions are met, perform this task, else perform some other task.  Basically, you set conditions that determine how the computer will proceed on its way through the program.
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+'=' or a single equals symbol is used as an assignment operator and sets the value of a variable.  '==' or a double equals symbol is a comparative operator and is used to check equality.
