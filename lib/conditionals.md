@@ -5,8 +5,11 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+Conditionals are expressions that evaluate to either true or false. 
+They are mostly used to determine Program Flow through if statements and while loops.
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+= is for telling a variable to point
+at an object (assignment), and == is for asking the question “Are these
+two objects equal?”
