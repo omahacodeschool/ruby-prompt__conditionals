@@ -12,6 +12,9 @@ Conditional expressions sometimes use what we find below, comparison operators.
 # What is the difference between `=` and `==`?
 
 = assigns the value of a variable in your program 
+
 e.g. name = "Derek" meaning when the program refers to name the name IS Derek
+
 whereas == checks for equality between values 
+
 e.g. if 1+1 == (is equal to) 2 put...
