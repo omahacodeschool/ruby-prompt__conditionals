@@ -5,8 +5,9 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+ A conditional is what controls the flow of a program. A contional allows one to give a program conditions that, 
+ when met, execute the program one way, or if not met, allow the program to run another way (for example, If, else, elseif, etc...).
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+"==" is used to check for equality, whereas "=" is used to set the value of variables.
