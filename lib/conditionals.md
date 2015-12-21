@@ -5,8 +5,8 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+A conditional uses the statements 'if', 'elsif' and 'else' to move the otherwise linear progression of a program in an alternative direction based on the true-ness or false-ness of the conditional statement. 
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+'=' is used to define a variable. '==' is used to check for equality.
