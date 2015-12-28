@@ -5,7 +5,9 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-A conditional is used to control the flow of a program once it is executed.  It does this by using 'if', 'else', and 'elseif' statements.  
+A conditional is used to control the flow of a program once it is executed.  It does this by using 'if', 'else', and 'elseif' statements. 
+Flow in a program can also be controlled using the comparison method.  This method uses comparators such as: <, >, ==, <=, >=, and != to determine whether or not
+to execute a block of code.
 If the condition following an 'if' statement is true, then Ruby will run the block of code following it.  If the statement is false, then Ruby will jump to 
 the next line of code.  Often this is an 'else' statement.  We can add multiple conditions to the code using 'elseif'.  Like an 'if' statement, an 'elseif' statement
 will run the following block of code only if the condition is true.  Otherwise, it will jump to the next 'elseif' or 'else' statement in the code. 
