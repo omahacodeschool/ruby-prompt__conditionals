@@ -5,8 +5,9 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+The part of a program that controls the flow of the execution of the program.
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+'=' sets a variable (an assignment operator)
+'==' asks "Are these equal? (a relational operator)
