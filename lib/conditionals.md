@@ -10,4 +10,4 @@ The part of a program that controls the flow of the execution of the program.
 # What is the difference between `=` and `==`?
 
 '=' sets a variable (an assignment operator)
-'==' asks "Are these equal? (a relational operator)
+'==' asks "Are these equal? (a comparative operator)
