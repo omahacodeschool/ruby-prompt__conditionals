@@ -12,6 +12,16 @@ If the condition following an 'if' statement is true, then Ruby will run the blo
 the next line of code.  Often this is an 'else' statement.  We can add multiple conditions to the code using 'elseif'.  Like an 'if' statement, an 'elseif' statement
 will run the following block of code only if the condition is true.  Otherwise, it will jump to the next 'elseif' or 'else' statement in the code. 
 
+If we wanted to write a program that repeated itself until a certain condition is true, then we would use another method of flow control called a loop.  If we wanted to paint a canvas yellow
+using a ruby commands: paint_yellow and canvas_is_full.  We would want the comand paint_yellow to repeat itself until the canvas was full.  We could do this using "while".  
+Our paint yellow program might look something like this:
+while !canvas_is_full
+    paint_yellow
+        if canvas_is_full
+        break
+    end
+end
+
 
 # What is the difference between `=` and `==`?
 
