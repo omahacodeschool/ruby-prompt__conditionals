@@ -5,7 +5,7 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-A conditional is a comparison made between two arguments to determine whether it is true or false. These usually begin as if or else statements. 
+A better definition for a conditional would be the part of the program that controls the flow of the execution of the program. When I mentioned that conditional statments begin as if statements I simply meant that the "if" statement marks the beginning of a conditional statement. The "if" statement is immediately followed by a condition that the system will determine as true or false. If the condition is true the code immediately following will be executed. Any code following the else statment will be executed if the statment is false. Elseif statments can also be included in order to create multiple conditions within a program that have separate outcomes. There are many cases where conditional statments can be used in a program such as determining if a user's input fits the parameters of the program or outputting separate statments depending on the user's input, or any situation where alternate paths are needed in a program.
 
 # What is the difference between `=` and `==`?
 
