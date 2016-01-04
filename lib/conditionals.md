@@ -5,8 +5,8 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+A Conditional is an 'if then' statement that takes a program in a user defined direction.
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+'=' can define a variable within Ruby, while '==' is used to create a mathmatical equation to complete a code.
