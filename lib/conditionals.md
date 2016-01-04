@@ -11,6 +11,7 @@ Conditionals basically control how a program is executed. In Ruby, you assign a 
 “elsif” allows for additional condition(s) to be met (you can add as many of these as you want)
  “else” do this if condition(s) not met
 
+Another example of control flow is "while" which creates loops. Basically, it's telling Ruby that "while" a condition is true, keep doing something, as opposed to a one-time operation like "if."
 
 # What is the difference between `=` and `==`?
 
