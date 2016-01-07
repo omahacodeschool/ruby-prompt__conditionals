@@ -21,3 +21,6 @@ She = brick house
 == still maintains that the two inputs are seperate but equal, such as a similie. 
 We're glowing like the metal on the edge of a knife.
 We're glowing == the metal on the edge of a knife
+
+In ruby if we ran the code lion == bravery the result would be false. But if you assign them to equivalent 
+variables such as lion=1 and bravery=3-2 then lion==bravery becomes true.
