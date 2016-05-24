@@ -5,8 +5,9 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+Conditional tells the program what part of the code to implement when a certain criteria is met.
+An example would if x + 7 > 10 than display following text “The number is greater than 10” else if this statement is false to display “The number is less than 10”.
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+The = sign is used set the value of a variable while the == checks if the two variables are equal or not, if yes then the condition becomes true.  
