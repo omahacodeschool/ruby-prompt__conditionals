@@ -5,8 +5,8 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+A conditional allows a block of code to be run if the condition given is true or some other code to be run if it returns false.
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+The = sign assigns a value to a variable while the == operator checks if something is equal to something else.
