@@ -5,9 +5,21 @@ instructor_notes: Feel  free to re-organize the headings (or add/remove headings
 
 # What is a conditional?
 
-Conditionals are used in code to produce a predefined solution given a user input or 
-a value for a variable. If someone has multiple solutions to a problem and want
-to create one file to produce each solution, then conditionals are needed.
+Conditionals are used when there is a situation where a true or false result given
+some criteria. The user will specify a criteria and if it follows some defined 
+condition in the code, the predefined result will be produced.
+
+example 
+scenario -> does my english make sense?(does_it?)
+if does_it? = no
+    puts then do some editting
+if does_it? = yes 
+    puts I lucked out!
+end
+
+My code relied on the scenario if I made sense or not. The solutions I, the coder,
+defined were no and yes. The user would provide either a no or a yes where after
+their response went through my code the result is displayed.
 
 # What is the difference between `=` and `==`?
 
