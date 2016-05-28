@@ -5,8 +5,8 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-Replace me with your response...
+A conditional is a piece of code that will only execute if a certain conditional statement is true.
 
 # What is the difference between `=` and `==`?
 
-Replace me with your response...
+'=' assigns a value to a variable, while '==' is a conditional operator comparing two values and returning true if they are equal or false if they are not.
