@@ -5,8 +5,9 @@ instructor_notes: Feel free to re-organize the headings (or add/remove headings)
 
 # What is a conditional?
 
-A conditional is a statement which sets the parameters for which parts of the code will be executed.
+A conditional is a statement which sets the decision rules for which parts of the code will be executed, based upon whether specified conditions are true or false.
 Sample conditionals include if, else, elsif
+
 
 # What is the difference between `=` and `==`?
 
